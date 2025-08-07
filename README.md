@@ -12,6 +12,7 @@ A fast, modern, and responsive 🌍 weather application built using React, Vite,
 
 # 🧩 Preview 
 
+<img width="660" height="543" alt="Screenshot 2025-08-08 012914" src="https://github.com/user-attachments/assets/361d1a93-f8c8-4408-9326-47b4d232a276" />
 
 
 
