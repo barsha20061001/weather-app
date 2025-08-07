@@ -24,13 +24,9 @@
 🔧 Tech	                                                            📌 Details
 
 ⚛️ React	                                                   Component-based UI library
-
 ⚡ Vite                  	                                 Super-fast dev server & bundler
-
 🎨 Tailwind CSS           	                                 Utility-first CSS framework
-
 🌐 HTML/CSS/JS	                                                  Web fundamentals
-
 ☁️ OpenWeather API	                                            Real-time weather data
 
 
