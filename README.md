@@ -7,6 +7,7 @@
 [CLICK HERE](https://weather-app-tznv.vercel.app/)
 
 
+
 # ✨ Features
 
 🔍 Search weather by city
@@ -23,6 +24,8 @@
 
 🎨 Clean UI powered by Tailwind CSS
 
+
+
 # 🛠️ Tech Stack
 
 🔧 Tech	                                                            
@@ -38,9 +41,12 @@
 ☁️ OpenWeather API	     :                                                             Real-time weather data
 
 
+
 # 📄 License
 
 📝 This project is licensed under the MIT License.
+
+
 
 # 🙏 Acknowledgements
 
@@ -51,6 +57,8 @@
 ⚛️ React
 
 ⚡ Vite
+
+
 
 # 📬 Feedback
 
