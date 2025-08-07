@@ -42,6 +42,36 @@
 
 
 
+
+# weather-app/
+
+├── public/
+
+├── src/
+
+│   ├── components/
+
+│   ├── pages/
+
+│   ├── assets/
+
+│   ├── App.jsx
+
+│   ├── main.jsx
+
+│   └── index.css
+
+├── .env
+
+├── index.html
+
+├── package.json
+
+└── tailwind.config.js
+
+
+
+
 # 📄 License
 
 📝 This project is licensed under the MIT License.
