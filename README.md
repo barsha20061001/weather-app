@@ -43,7 +43,10 @@
 
 
 
-# weather-app/
+# 📁 Project Structure
+
+
+weather-app/
 
 ├── public/
 
