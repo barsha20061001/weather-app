@@ -2,7 +2,7 @@
 
 
 
-# LIVE 
+# 🌍 Check It Out
 
 [CLICK HERE](https://weather-app-tznv.vercel.app/)
 
