@@ -1,4 +1,4 @@
-export default function Weathercard({ weather }) {
+export default function WeatherCard({ weather }) {
   if (!weather) return null; // Safe check
 
   const { name, main, weather: weatherInfo } = weather;

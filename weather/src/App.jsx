@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Weathercard from "./components/Weathercard";
+import WeatherCard from "./components/WeatherCard";
 
 export default function App() {
   const [city, setCity] = useState("");
@@ -43,7 +43,7 @@ export default function App() {
           </button>
         </div>
         {error && <p className="text-red-500 mb-4">{error}</p>}
-        {weather && <Weathercard weather={weather} />}
+        {weather && <WeatherCard weather={weather} />}
       </div>
     </div>
   );
