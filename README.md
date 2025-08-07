@@ -126,6 +126,10 @@ Have feedback or ideas?
 
 Open an issue or submit a PR — contributions are always welcome! 🙌
 
+# 👤 Author
+
+Barsha Mondal
+
 
 
 
