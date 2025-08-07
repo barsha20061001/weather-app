@@ -1,4 +1,6 @@
-# weather
+# 🌤️ Weather Web App
+
+A fast, modern, and responsive 🌍 weather application built using React, Vite, and Tailwind CSS. It lets users search for any city and view real-time 🌡️ weather data including temperature, humidity, wind speed, and conditions — all with a clean and mobile-friendly UI.
 
 
 
