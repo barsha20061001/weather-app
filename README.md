@@ -23,14 +23,14 @@
 
 🔧 Tech	                                                            
 
-⚛️ React	     :                                              Component-based UI library
+⚛️ React	     :                                                                     Component-based UI library
 
-⚡ Vite       :          	                                 Super-fast dev server & bundler
+⚡ Vite       :          	                                                       Super-fast dev server & bundler
 
-🎨 Tailwind CSS    :       	                                 Utility-first CSS framework
+🎨 Tailwind CSS    :       	                                                       Utility-first CSS framework
 
-🌐 HTML/CSS/JS	    :                                              Web fundamentals
+🌐 HTML/CSS/JS	    :                                                                      Web fundamentals
 
-☁️ OpenWeather API	     :                                       Real-time weather data
+☁️ OpenWeather API	     :                                                             Real-time weather data
 
 
