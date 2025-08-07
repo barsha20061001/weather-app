@@ -1,6 +1,10 @@
-# weather-app
+# weather
 
-# [CLICK HERE](https://weather-app-tznv.vercel.app/)
+
+
+# LIVE 
+
+[CLICK HERE](https://weather-app-tznv.vercel.app/)
 
 
 # ✨ Features
@@ -32,5 +36,28 @@
 🌐 HTML/CSS/JS	    :                                                                      Web fundamentals
 
 ☁️ OpenWeather API	     :                                                             Real-time weather data
+
+
+# 📄 License
+
+📝 This project is licensed under the MIT License.
+
+# 🙏 Acknowledgements
+
+🔗 OpenWeatherMap API
+
+💅 Tailwind CSS
+
+⚛️ React
+
+⚡ Vite
+
+# 📬 Feedback
+
+Have feedback or ideas?
+
+Open an issue or submit a PR — contributions are always welcome! 🙌
+
+
 
 
