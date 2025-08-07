@@ -10,6 +10,12 @@ A fast, modern, and responsive 🌍 weather application built using React, Vite,
 
 
 
+# 🧩 Preview 
+
+
+
+
+
 # ✨ Features
 
 🔍 Search weather by city
