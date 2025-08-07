@@ -1,5 +1,5 @@
 import { useState } from "react";
-import WeatherCard from "./components/WeatherCard";
+import WeatherCard from "./components/temp";
 
 export default function App() {
   const [city, setCity] = useState("");
