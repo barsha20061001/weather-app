@@ -43,6 +43,30 @@
 
 
 
+# 📚 Usage
+
+Using the Weather App is simple and intuitive:
+
+🔍 Search by City
+
+Type the name of any city in the search bar (e.g., "New York").
+
+Hit Enter or click the Search button.
+
+🌤️ The app will display:
+
+Current temperature
+
+Weather condition (e.g., Clear, Rainy, Snow)
+
+Humidity
+
+Wind speed
+
+"Feels like" temperature
+
+
+
 # 📁 Project Structure
 
 
